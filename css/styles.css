@@ -11568,8 +11568,9 @@ section#contact form#contactForm :-ms-input-placeholder {
 }
 
 .simbol {
-  font-display: "LeckerliOne";
+  font-display: "auto";
   color: #fed136;
-  font-family: 'Fredericka the Great', cursive;
+  font-family: 'Bungee Shade', cursive;
   text-transform: capitalize;
+  font-size: 25px;
 }
